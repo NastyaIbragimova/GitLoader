@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Git Loader</string>
+    <string name="splash_screen_name">GitHub Client</string>
+    <string name="splash_screen_description">Browse, Discover, and Download Repositories</string>
+    <string name="search_screen_file_downloaded">Файл успешно загружен</string>
+    <string name="search_screen_error_downloading_file">Ошибка при загрузке файла: %1$s</string>
+    <string name="search_screen_search_hint">Введите полное имя автора</string>
+    <string name="search_screen_search_btn">Найти репозитории</string>
+    <string name="search_screen_no_repo_found">Нет репозиториев для отображения</string>
+    <string name="repository_item_language">Язык: %1$s</string>
+    <string name="repository_item_owner">Владелец: %1$s</string>
+    <string name="repository_item_open_in_browser">Открыть в браузере</string>
+    <string name="repository_item_open_in_folder">Открыть в папке</string>
+    <string name="repository_item_download_archive">Скачать архив</string>
+    <string name="downloads_screen_title">Загруженные репозитории</string>
+    <string name="downloads_screen_empty_list">Нет загруженных репозиториев</string>
+    <string name="file_downloader_error">Failed to create file in Downloads</string>
+</resources>
